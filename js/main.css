@@ -1,0 +1,7 @@
+.game-board {
+	max-width: 1040px;
+}
+
+.tileBack {
+	background-image: "img/tile-back.png";
+}
