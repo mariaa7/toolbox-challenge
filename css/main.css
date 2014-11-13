@@ -1,0 +1,5 @@
+#game-board {
+	max-width: 840px;
+	max-height: 840px;
+	border-collapse: collapse;
+}

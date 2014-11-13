@@ -46,5 +46,53 @@ var tiles = [
 	},
 	{
 		"src": "img/tile16.jpg"
+	},
+	{
+		"src": "img/tile17.jpg"
+	},
+	{
+		"src": "img/tile18.jpg"
+	},
+	{
+		"src": "img/tile19.jpg"
+	},
+	{
+		"src": "img/tile20.jpg"
+	},
+	{
+		"src": "img/tile21.jpg"
+	},
+	{
+		"src": "img/tile22.jpg"
+	},
+	{
+		"src": "img/tile23.jpg"
+	},
+	{
+		"src": "img/tile24.jpg"
+	},
+	{
+		"src": "img/tile25.jpg"
+	},
+	{
+		"src": "img/tile26.jpg"
+	},
+	{
+		"src": "img/tile27.jpg"
+	},
+	{
+		"src": "img/tile28.jpg"
+	},
+	{
+		"src": "img/tile29.jpg"
+	},
+	{
+		"src": "img/tile30.jpg"
+	},
+	{
+		"src": "img/tile31.jpg"
+	},
+	{
+		"src": "img/tile32.jpg"
 	}
 ]
