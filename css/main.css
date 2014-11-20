@@ -1,5 +1,10 @@
 #game-board {
-	max-width: 840px;
+	max-width: 855px;
 	max-height: 840px;
-	border-collapse: collapse;
+}
+
+#game-board img {
+	border: 5px black solid;
+	margin-right: 3px;
+	padding: 0px;
 }

@@ -27,7 +27,7 @@ function setTiles() {
 		var newTile = $(document.createElement('img'));
 		newTile.attr('src', 'img/tile-back.png');
 		newTile.attr('width', '200px');
-		newTile.attr('border', '5px solid black');
+		//newTile.attr('border', '5px solid black');
 		newTile.data('tile-front', shuffled[i].src);
 		
 		newTile.data('matched', false);
