@@ -1,5 +1,37 @@
-#game-board {
-	max-width: 840px;
-	max-height: 840px;
-	border-collapse: collapse;
+body {
+	font-family: 'Helvetica Neue';
 }
+
+h1 {
+	float: left;
+	font-size: 400%;
+	margin-right: 3em;
+}
+
+
+
+#newGame {
+	background-color: gray;
+	color: white;
+	border-radius: 4px;
+	border: none;
+	cursor: pointer;
+}
+
+#game-board {
+	max-width: 860px;
+	max-height: 840px;
+	
+}
+
+#game-board img {
+	border: 5px black solid;
+	margin-right: 3px;
+	padding: 0px;
+	cursor: pointer;
+}
+
+#game-board .winMessage {
+	display: none;
+}
+
