@@ -31,7 +31,3 @@ h1 {
 	cursor: pointer;
 }
 
-#game-board .winMessage {
-	display: none;
-}
-
